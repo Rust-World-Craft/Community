@@ -13,7 +13,7 @@ A web application consisting of an interactive database to discover and understa
 ![rust-craft-topology-01.png](images/rust-craft-topology-01.png)
 
 
-## Rust Craft - World Manager (Coming Soon)
+## Rust Craft - Map Manager (Coming Soon)
 A desktop application that helps you manage your custom map projects.
 
 Features:
@@ -28,4 +28,4 @@ Features:
   - Rust Edit asset management - Organise Prefabs, Brushes, Stamps.
   - Version Control - Backup your maps and assets with ease.
 
-![rust-craft-world-manager-01.png](images/rust-craft-world-manager-01.png)
+![rust-craft-map-manager-01.png](images/rust-craft-map-manager-01.png)
