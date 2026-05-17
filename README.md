@@ -31,6 +31,7 @@ https://github.com/Rust-World-Craft/Community/releases/latest
   - Rust Dedicated Local host launcher and config management.
   - Rust Edit asset management - Organise Prefabs, Brushes, Stamps.
   - Version Control - Backup your maps and assets with ease.
+  - Prefab Management - Import your prefabs into a central library, add prefab copies to maps, RustEdit lists only the prefabs added to a map keeping your prefab list in the editor nice and clean, free from prefabs belonging to other maps.
 
 ![New Project](images/map-manager/rc-new-project.jpg)
 
