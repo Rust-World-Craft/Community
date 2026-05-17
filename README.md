@@ -32,4 +32,20 @@ https://github.com/Rust-World-Craft/Community/releases/latest
   - Rust Edit asset management - Organise Prefabs, Brushes, Stamps.
   - Version Control - Backup your maps and assets with ease.
 
-![rust-craft-map-manager-01.png](images/map-manager/preview.png)
+![New Project](images/map-manager/rc-new-project.jpg)
+
+![Map Editing](images/map-manager/rc-map-editing.jpg)
+
+![Map Testing](images/map-manager/rc-map-testing.jpg)
+
+![Map Publishing](images/map-manager/rc-map-publishing.jpg)
+
+![Map Testing](images/map-manager/rc-map-testing.jpg)
+
+![Map Servers](images/map-manager/rc-servers.jpg)
+
+![Map Servers Oxide](images/map-manager/rc-servers-oxide.jpg)
+
+![Map Servers Oxide Manager](images/map-manager/rc-servers-oxide-manage.jpg)
+
+![Map Prefabs](images/map-manager/rc-prefabs.jpg)
