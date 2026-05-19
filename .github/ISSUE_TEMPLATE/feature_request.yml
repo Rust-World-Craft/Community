@@ -1,0 +1,17 @@
+name: Feature Request
+description: Suggest improvements for this project
+labels: ['Feature', 'Triage']
+body:
+  - type: checkboxes
+    attributes:
+      label: Is there an existing feature request for this?
+      description: Please search to see if a feature request already exists.
+      options:
+        - label: I have searched the existing issues
+          required: true
+  - type: textarea
+    attributes:
+      label: Feature Idea
+      description: Describe your idea in as much detail as possible.
+    validations:
+      required: true

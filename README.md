@@ -12,6 +12,7 @@ A web application consisting of an interactive database to discover and understa
 
 ![rust-craft-topology-01.png](images/rust-craft-topology-01.png)
 
+---
 
 ## Rust Craft - Map Manager
 A desktop application that helps you manage your custom map projects.
@@ -24,14 +25,13 @@ https://github.com/Rust-World-Craft/Community/releases/latest
 - **Software Management**
   - Install/maintain tools such as Steam CDM, Rust Dedicated without the faff.
 
-
 - **Project Management**:
   - Work on multiple map projects with per-project configurations for Rust Dedicated & Rust Edit.  
-  - Easily switch between Rust Public and Staging builds for each project where the Rust Game, Rust Dedicated & Rust Edit tools are all automatically kept in sync with the Games build target.
+  - Switch between Rust Public and Staging builds for each project where the Rust Game, Rust Dedicated & Rust Edit tools are all automatically kept in sync with the Games build target.
   - Rust Dedicated Local host launcher and config management.
-  - Rust Edit asset management - Organise Prefabs, Brushes, Stamps.
-  - Version Control - Backup your maps and assets with ease.
-  - Prefab Management - Import your prefabs into a central library, add prefab copies to maps, RustEdit lists only the prefabs added to a map keeping your prefab list in the editor nice and clean, free from prefabs belonging to other maps.
+  - Rust Edit asset management, Organize Prefabs, Brushes, Stamps.
+  - Version Control, Backup your maps and assets with ease.
+  - Prefab Management, Import your prefabs into a central library, add prefab copies to maps, RustEdit lists only the prefabs added to a map keeping your prefab list in the editor nice and clean, free from prefabs belonging to other maps.
 
 ![New Project](images/map-manager/rc-new-project.jpg)
 
